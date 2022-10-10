@@ -1,8 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 const Card = (props) => {
+
   return (
+    <Link to={`/${props.id}`} id={props.id} style={{ textDecoration: 'none' }}>
       <Wrapper color={props.color}>
           <Content>
               <Title>{props.title}</Title>
@@ -10,6 +13,7 @@ const Card = (props) => {
           </Content>
           <Image src={props.image} />
       </Wrapper>
+    </Link>
   );
 }
 

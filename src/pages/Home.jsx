@@ -62,7 +62,6 @@ const Work = styled.h1`
   text-decoration: underline;
   text-decoration-color: #FD987E;
   margin-top: 85px;
-  
 
   @media (max-width: 450px) {
     font-size: 24px;

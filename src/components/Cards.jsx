@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
-import { projects } from '../data';
+import { projects } from '../data/projects';
 import Card from './Card';
 
 const Cards = () => {
   return (
       <Wrapper>
         {projects.map((project) =>
-        <Card title={project.title} desc={project.desc} image={project.image} color={project.color} />)}
+        <Card title={project.title} desc={project.desc} image={project.image} color={project.color} id={project.id} />)}
       </Wrapper>
   );
 }

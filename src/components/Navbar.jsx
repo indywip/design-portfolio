@@ -10,7 +10,9 @@ const Navbar = () => {
             <Link to="/" style={{ textDecoration: "none" }}>
                 <Text>Work</Text>
             </Link>
-            <Text>Designs</Text>
+            <Link to="/designs" style={{ textDecoration: "none" }}>
+                <Text>Designs</Text>
+            </Link>
             <Link to="/about" style={{ textDecoration: "none" }}>
                 <Text>About</Text>
             </Link>
@@ -43,6 +45,26 @@ const Text = styled.h1`
     color: white;
     font-weight: 500;
     font-family: Outfit;
+    display: inline-block;
+    position: relative;
+
+    &:after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        transform: scaleX(0);
+        height: 3.5px;
+        bottom: 0;
+        left: 0;
+        background-color: #FD987E;
+        transform-origin: bottom right;
+        transition: transform 0.25s ease-out;
+    }
+
+    &:hover:after {
+        transform: scaleX(1);
+        transform-origin: bottom left;
+    }
 `
 
 const Button = styled.button`

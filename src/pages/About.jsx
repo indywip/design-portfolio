@@ -34,6 +34,13 @@ const About = () => {
 
 export default About
 
+const Center = styled.div`
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+`
+
 const Wrapper = styled.div`
   display: flex;
   margin-top: 65px;
@@ -111,6 +118,7 @@ const Icons = styled.div`
   display: flex;
   gap: 22px;
   margin-top: 28px;
+  margin-left: 10%;
 
   @media (max-width: 450px) {
     margin-top: 18px;
