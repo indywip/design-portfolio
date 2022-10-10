@@ -17,7 +17,7 @@ const Navbar = () => {
                 <Text>About</Text>
             </Link>
             <Button onClick={(e)=> {
-                window.open("https://drive.google.com/file/d/1Yz3a32w-vpJIOlMj8kYbNKY3CWAAv_RY/view", '_blank')
+                window.open("https://drive.google.com/file/d/1lTrEJMTBtLsN8D1H2SfaQ0mL1kzE_cdM/view?usp=sharing", '_blank')
             }}>Resume</Button>
         </Buttons>
     </Wrapper>

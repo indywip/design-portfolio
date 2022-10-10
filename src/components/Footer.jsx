@@ -22,7 +22,7 @@ const Footer = () => {
                 <Text>About</Text>
             </Link>
             <Text onClick={(e)=> {
-                window.open("https://drive.google.com/file/d/1Yz3a32w-vpJIOlMj8kYbNKY3CWAAv_RY/view", '_blank')
+                window.open("https://drive.google.com/file/d/1lTrEJMTBtLsN8D1H2SfaQ0mL1kzE_cdM/view?usp=sharing", '_blank')
             }}>Resume</Text>
         </Buttons>
         <Icons>
@@ -77,7 +77,7 @@ const Text = styled.h1`
         position: absolute;
         width: 100%;
         transform: scaleX(0);
-        height: 3.5px;
+        height: 2.5px;
         bottom: 0;
         left: 0;
         background-color: #FD987E;
