@@ -1,6 +1,6 @@
 import React from 'react';
 
-import ScrollToTop from './ScrollToTop.js'
+import ScrollToTop from './hooks/ScrollToTop.js'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import Home from './pages/Home'

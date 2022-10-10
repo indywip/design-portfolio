@@ -19,6 +19,7 @@ const About = () => {
             </Icons>
           </IContent>
           <Content>
+            <Center>
             <Header>Meet Indy Sowy</Header>
             <Sub>I am a product designer, developer, and manager based in Vancouver, currently a 
               second year studying under the Faculty of Arts at the University of British Columbia. 
@@ -26,6 +27,7 @@ const About = () => {
               I hope to use my skills to help develop the future of the tech industry.
               <br /><br />
               Feel free to reach out if you want to collaborate or just have a chat!</Sub>
+            </Center>
           </Content>
       </Wrapper>
   );
@@ -54,6 +56,16 @@ const Image = styled.img`
     width: 220px;
     align-self: center;
   }
+`
+
+const Center = styled.div`
+    display: flex;
+    flex-direction: column;
+
+    @media (max-width: 450px) {
+      align-items: center;
+      justify-content: center;
+    }
 `
 
 const Content = styled.div`
