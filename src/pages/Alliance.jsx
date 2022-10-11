@@ -49,7 +49,7 @@ const Alliance = () => {
                         one’s portfolio. <br/><br/>However, when projects require collaborative work, tech aspirants, 
                         especially those who are new to the industry or field, may not know who to reach out to. This is 
                         because they have limited resources, knowledge, and no community to reach out to. <br/><br/>
-                        There are three possible causes of this problem:
+                        There are three possible causes of this problem that I identified:
                         <ul>
                             <li>Tech aspirants are able to find a community</li> 
                             <li>They have limited resources</li>
@@ -77,7 +77,7 @@ const Alliance = () => {
                             <li>Career shifters</li>
                             <li>New graduates</li>
                         </ul>
-                        For research, we had an initial survey of individuals in the industries of design, engineering, and product 
+                        For research, I crafted had an initial survey of individuals in the industries of design, engineering, and product 
                         who were interested in working on projects. Participants were chosen were invited to an hour interview in 
                         an attempt to understand how collaboration is scouted by tech aspirants and the challenges they face.​ <br/><br/>
                         This was the criteria for choosing who to interview:
@@ -89,33 +89,33 @@ const Alliance = () => {
                         </ul>
                         The research found that individuals struggled to get experience working on collaborative projects 
                         without having to apply for actual jobs. Moreover, they faced challenges looking for collaborators 
-                        who were willing to work with them without some sort of compensation. We concluded that there are 
+                        who were willing to work with them without some sort of compensation. Our team concluded that there are 
                         many individuals who want to collaborate, but don't know where to find like-minded people. <br/><br/>
                         <Center><Image5 src={`https://imgur.com/BZxBEe3.png`} /></Center><br/>
-                        Thus, we validated the necessity to develop a new collaborative freelancer app. From this, we worked 
-                        on crafting user personas based on our research. <br/><br/>
+                        Thus, we validated the necessity to develop a new collaborative freelancer app. From this, I worked 
+                        on crafting user personas based on the research. <br/><br/>
                         <Center><Image6 src={`https://imgur.com/Eftcs2I.png`} /></Center><br/>
                         <Center><Image6 src={`https://imgur.com/Fi66ZAx.png`} /></Center><br/>
-                        From there, we created a user flow to map out the user journey. After, we constructed wirefames 
-                        based on our map then converted them into high-fidelity UI designs on Figma. Finally, we were able 
+                        From there, I created a user flow to map out the user journey. After, I constructed wirefames 
+                        based on our map then converted them into high-fidelity UI designs on Figma. Finally, I was able 
                         to convert some of the screens into interactive and functional prototypes.<br/><br/>
                         <Center><Image2 src={`https://i.imgur.com/vJgdbsH.png`} /></Center><br/><br/>
                     </Text>
                     <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
                     <Text>
-                    We created a website that connects tech aspirants who exercise “creative independence” to one another 
+                    Our team created a website that connects tech aspirants who exercise “creative independence” to one another 
                     for collaborative work on projects they can add to their experiences and portfolios.<br/><br/>
                     This website also aims to build a peer-to-peer network or a “creative independent” community that fosters 
-                    creativity and innovation by allowing them to brainstorm various projects to work on together. Our main goal 
+                    creativity and innovation by allowing them to brainstorm various projects to work on together. Its main goal 
                     is to be the gateway for their career through upskilling and collaboration.<br/><br/>
-                    More specifically, streamline this process by curating a feed of recommended collaborators and projects based on the 
-                    user’s criteria. Users are able to build their profile and discern whether the collaborators and projects from our 
-                    recommended list are what they are looking for through our in-website messaging channel. Moreover, to foster an 
+                    More specifically, it streamlines this process by curating a feed of recommended collaborators and projects based on the 
+                    user’s criteria. Users are able to build their profile and discern whether the collaborators and projects from its 
+                    recommended list are what they are looking for through the in-website messaging channel. Moreover, to foster an 
                     uplifting community, users are able to share their questions, stories, and progress reports and to hop on fireside 
                     chats in our community feed.<br/><br/>
                     Deviating from your typical freelance tool, Alliance does not connect aspiring creative independents 
                     to client work. Given that these aspiring creative independents have limited experience and projects, landing 
-                    a role in a monetized project is a slim chance. Instead, *Alliance* brings together like-minded individuals 
+                    a role in a monetized project is a slim chance. Instead, Alliance brings together like-minded individuals 
                     that share the same vision and passion to collaborate, so that they may find avenues to innovate, grow, and thrive.
                     Our idea prioritizes connecting tech aspirants to one another before the project; essentially a 
                     matching service. It provides suggestions on who to collaborate with rather than simply looking at roles.<br/><br/>
@@ -170,7 +170,7 @@ const Alliance = () => {
                     </Group>
                     <SubHead>TAKEAWAYS & IMPROVEMENTS</SubHead>
                     <Text>
-                        Though our team was only given about 2 weeks to work on the project, we were able to consolidate our 
+                        Though our team was only given about 2 weeks to work on the project, I was able to consolidate our 
                         user research and convert wireframes into a high-fidelity prototype.<br/><br/>
                         Given more time, I would have completed designing all the screens that allow the user to display 
                         interest in working on a project and reach out to collaborate with other users. I would've added 
@@ -223,7 +223,7 @@ const Alliance = () => {
                         one’s portfolio. <br/><br/>However, when projects require collaborative work, tech aspirants, 
                         especially those who are new to the industry or field, may not know who to reach out to. This is 
                         because they have limited resources, knowledge, and no community to reach out to. <br/><br/>
-                        There are three possible causes of this problem:
+                        There are three possible causes of this problem that I identified:
                         <ul>
                             <li>Tech aspirants are able to find a community</li> 
                             <li>They have limited resources</li>
@@ -251,7 +251,7 @@ const Alliance = () => {
                             <li>Career shifters</li>
                             <li>New graduates</li>
                         </ul>
-                        For research, we had an initial survey of individuals in the industries of design, engineering, and product 
+                        For research, I crafted an initial survey of individuals in the industries of design, engineering, and product 
                         who were interested in working on projects. Participants were chosen were invited to an hour interview in 
                         an attempt to understand how collaboration is scouted by tech aspirants and the challenges they face.​ <br/><br/>
                         This was the criteria for choosing who to interview:
@@ -263,33 +263,33 @@ const Alliance = () => {
                         </ul>
                         The research found that individuals struggled to get experience working on collaborative projects 
                         without having to apply for actual jobs. Moreover, they faced challenges looking for collaborators 
-                        who were willing to work with them without some sort of compensation. We concluded that there are 
+                        who were willing to work with them without some sort of compensation. Our team concluded that there are 
                         many individuals who want to collaborate, but don't know where to find like-minded people. <br/><br/>
                         <Center><Image5 src={`https://imgur.com/BZxBEe3.png`} /></Center><br/>
-                        Thus, we validated the necessity to develop a new collaborative freelancer app. From this, we worked 
+                        Thus, we validated the necessity to develop a new collaborative freelancer app. From this, I worked 
                         on crafting user personas based on our research. <br/><br/>
                         <Center><Image6 src={`https://imgur.com/Eftcs2I.png`} /></Center><br/>
                         <Center><Image6 src={`https://imgur.com/Fi66ZAx.png`} /></Center><br/>
-                        From there, we created a user flow to map out the user journey. After, we constructed wirefames 
-                        based on our map then converted them into high-fidelity UI designs on Figma. Finally, we were able 
+                        From there, I created a user flow to map out the user journey. After, I constructed wirefames 
+                        based on our map then converted them into high-fidelity UI designs on Figma. Finally, I was able 
                         to convert some of the screens into interactive and functional prototypes.<br/><br/>
                         <Center><Image2 src={`https://i.imgur.com/vJgdbsH.png`} /></Center><br/><br/>
                     </Text>
                     <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
                     <Text>
-                    We created a website that connects tech aspirants who exercise “creative independence” to one another 
+                    Our team created a website that connects tech aspirants who exercise “creative independence” to one another 
                     for collaborative work on projects they can add to their experiences and portfolios.<br/><br/>
                     This website also aims to build a peer-to-peer network or a “creative independent” community that fosters 
-                    creativity and innovation by allowing them to brainstorm various projects to work on together. Our main goal 
+                    creativity and innovation by allowing them to brainstorm various projects to work on together. Its main goal 
                     is to be the gateway for their career through upskilling and collaboration.<br/><br/>
                     More specifically, streamline this process by curating a feed of recommended collaborators and projects based on the 
-                    user’s criteria. Users are able to build their profile and discern whether the collaborators and projects from our 
-                    recommended list are what they are looking for through our in-website messaging channel. Moreover, to foster an 
+                    user’s criteria. Users are able to build their profile and discern whether the collaborators and projects from its 
+                    recommended list are what they are looking for through its in-website messaging channel. Moreover, to foster an 
                     uplifting community, users are able to share their questions, stories, and progress reports and to hop on fireside 
                     chats in our community feed.<br/><br/>
                     Deviating from your typical freelance tool, Alliance does not connect aspiring creative independents 
                     to client work. Given that these aspiring creative independents have limited experience and projects, landing 
-                    a role in a monetized project is a slim chance. Instead, *Alliance* brings together like-minded individuals 
+                    a role in a monetized project is a slim chance. Instead, Alliance brings together like-minded individuals 
                     that share the same vision and passion to collaborate, so that they may find avenues to innovate, grow, and thrive.
                     Our idea prioritizes connecting tech aspirants to one another before the project; essentially a 
                     matching service. It provides suggestions on who to collaborate with rather than simply looking at roles.<br/><br/>
@@ -326,7 +326,7 @@ const Alliance = () => {
                     <Center><Image7 src={`https://imgur.com/tJDXEL2.png`} /></Center>
                     <SubHead>TAKEAWAYS & IMPROVEMENTS</SubHead>
                     <Text>
-                        Though our team was only given about 2 weeks to work on the project, we were able to consolidate our 
+                        Though our team was only given about 2 weeks to work on the project, I was able to consolidate our 
                         user research and convert wireframes into a high-fidelity prototype.<br/><br/>
                         Given more time, I would have completed designing all the screens that allow the user to display 
                         interest in working on a project and reach out to collaborate with other users. I would've added 

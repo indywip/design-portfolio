@@ -46,7 +46,7 @@ const Entreprenher = () => {
                     <Text>
                     Female-identifying entrepreneurs and business owners are very under-represented, with only 16% of 
                     Canadian small business owners being women. <br/><br/>
-                    Through further research, we found that female businesses profit less compared to male businesses and 
+                    Through further research, I found that female businesses profit less compared to male businesses and 
                     tend to be less successful. Due to the lack of access and opportunities that women face, female-owned 
                     businesses tend to become relatively unpopular.
                     </Text>
@@ -65,7 +65,7 @@ const Entreprenher = () => {
                     </Text>
                     <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
                     <Text>
-                    To remedy this, our team created entreprenHER, a web application that aims to showcase the 16% 
+                    To remedy the problem, our team created entreprenHER, a web application that aims to showcase the 16% 
                     and allow them to promote their talents and creativity through the platform.<br/><br/>
                     Female-identifying individuals can host their online stores on the platform which consumers can 
                     purchase from. Through this, users can directly support women entrepreneurs by buying their products.
@@ -215,7 +215,7 @@ const Entreprenher = () => {
                     </Text>
                     <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
                     <Text>
-                    To remedy this, our team created entreprenHER, a web application that aims to showcase the 16% 
+                    To remedy the problem, our team created entreprenHER, a web application that aims to showcase the 16% 
                     and allow them to promote their talents and creativity through the platform.<br/><br/>
                     Female-identifying individuals can host their online stores on the platform which consumers can 
                     purchase from. Through this, users can directly support women entrepreneurs by buying their products.

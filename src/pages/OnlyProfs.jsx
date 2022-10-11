@@ -44,7 +44,7 @@ const OnlyProfs = () => {
                 <Body>
                     <SubHead>THE PROBLEM</SubHead>
                     <Text>
-                    The problem our team identified stems from the fact that university/high school students are too 
+                    The problem I identified stems from the fact that university/high school students are too 
                     limited in their range of learning; they only obtain direct education from a certain teacher for 
                     a certain subject. What if the student would like to gain extra practice and knowledge to supplement 
                     their learning, or to find other courses taught by such an instructor? They want extra resources 
@@ -55,7 +55,7 @@ const OnlyProfs = () => {
                     </Text>
                     <SubHead>THE PROCESS</SubHead>
                     <Text>
-                    We developed a problem statement:<br/>
+                    I developed a problem statement:<br/>
                     <strong>WHO</strong> are our users?
                     <ul>
                         <li>Professors / Instructors / Educational Content Creators</li>
@@ -69,8 +69,9 @@ const OnlyProfs = () => {
                     </ul>
                     <strong>WHY</strong> do we have this problem?
                     <ul>
-                        <li>Because some teachers suck, or students need more resources and practice or a different form of 
-                        explanation. Most educational content is also locked behind paywalls that students are unwilling to breach.</li>
+                        <li>Because the lectures given by professors aren't sufficient, or students need more resources and practice or 
+                            a different form of explanation. Most educational content is also locked behind paywalls that students are 
+                            unwilling to breach.</li>
                         </ul>
                     <strong>HOW</strong> can we help?
                     <ul>
@@ -78,12 +79,12 @@ const OnlyProfs = () => {
                         <li>Professors can earn passive income through their content</li>
                         <li>Students can access free additional learning resources</li>
                     </ul>
-                    After consolidating our problem statement and research, we developed a user flow which I turned into high-fidelity
+                    After consolidating our team's problem statement and research, I developed a user flow which I turned into high-fidelity
                     mockups on Figma, then moved to coding the front-end of the website.
                     </Text>
                     <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
                     <Text>
-                    Our solution was to create a platform to connect students and professors. Our platform aims to 
+                    The solution was to create a platform to connect students and professors. onlyProfs aims to 
                     help professors share the knowledge and content that they create, whether it be lectures, 
                     assignments (with solutions), or their research, and provide easy access for students to learn 
                     from those materials free of charge.<br/><br/>
@@ -96,15 +97,15 @@ const OnlyProfs = () => {
                     educational content.
                     Working and developed examples of how we differ:
                     <ul>
-                        <li>There are many existing platforms that offer similar content relative to what we are offering, 
+                        <li>There are many existing platforms that offer similar content relative to what the platform offers, 
                         e.g. Coursera/Udemy, Youtube, and Superprof.</li>
-                        <li>We differ from Coursera/Udemy in that the lectures instructors upload need not be condensed 
+                        <li>The platform differs from Coursera/Udemy in that the lectures instructors upload need not be condensed 
                         into one instructive course, they’re able to upload individualized videos (and let students view 
-                        such videos) based on the topic/subject that they are teaching, so our platform offers more flexibility.</li>
-                        <li>We differ from Youtube in that our platform is streamlined for education, and drops the pretense of 
-                        Youtube algorithms; this comes in that we will never “recommend” distracting videos to the students 
+                        such videos) based on the topic/subject that they are teaching, so it offers more flexibility.</li>
+                        <li>The platform differs from Youtube in that it is streamlined for education, and drops the pretense of 
+                        Youtube algorithms; this comes in that it will never “recommend” distracting videos to the students 
                         based on their history, and that all content offered will be free, professional, and educational. </li>
-                        <li>And of course, unlike Superprof, which offers paid tutor services, we provide all of our materials 
+                        <li>And of course, unlike Superprof, which offers paid tutor services, it provides all of its materials 
                         asynchronously and completely for free. This really steps in on many college/university students’ 
                         lack of willingness to pay for non-essential expenses, which in theory would give our site higher 
                         popularity.</li>
@@ -212,9 +213,9 @@ const OnlyProfs = () => {
                     </Group>
                     <SubHead>TAKEAWAYS & IMPROVEMENTS</SubHead>
                     <Text>
-                    In just 24 hours, our team was able to come up with hi-fidelity designs and a prototype based on user journeys 
-                    and requirements. We were also able to code up a live demo showcasing the application's main functionality using 
-                    React and hosted it on Google Firebase. <br/><br/>
+                    In just 24 hours, I was able to come up with hi-fidelity designs and a prototype based on user journeys and requirements. 
+                    Me and my team were also able to code up a live demo showcasing the application's main functionality using React and 
+                    hosted it on Google Firebase. <br/><br/>
                     Given more time, I would have worked on developing the frontend interface more on the live demo given that the current 
                     site wasn't able to be developed to look exactly like the prototypes I designed. I also would have wanted to design
                     the notifications users would received once a creator they subscribed to posts new content.
@@ -259,7 +260,7 @@ const OnlyProfs = () => {
                 <Body>
                     <SubHead>THE PROBLEM</SubHead>
                     <Text>
-                    The problem our team identified stems from the fact that university/high school students are too 
+                    The problem I identified stems from the fact that university/high school students are too 
                     limited in their range of learning; they only obtain direct education from a certain teacher for 
                     a certain subject. What if the student would like to gain extra practice and knowledge to supplement 
                     their learning, or to find other courses taught by such an instructor? They want extra resources 
@@ -270,7 +271,7 @@ const OnlyProfs = () => {
                     </Text>
                     <SubHead>THE PROCESS</SubHead>
                     <Text>
-                    We developed a problem statement:<br/>
+                    I developed a problem statement:<br/>
                     <strong>WHO</strong> are our users?
                     <ul>
                         <li>Professors / Instructors / Educational Content Creators</li>
@@ -284,21 +285,22 @@ const OnlyProfs = () => {
                     </ul>
                     <strong>WHY</strong> do we have this problem?
                     <ul>
-                        <li>Because some teachers suck, or students need more resources and practice or a different form of 
-                        explanation. Most educational content is also locked behind paywalls that students are unwilling to breach.</li>
-                        </ul>
+                        <li>Because the lectures given by professors aren't sufficient, or students need more resources and practice or 
+                        a different form of explanation. Most educational content is also locked behind paywalls that students are 
+                        unwilling to breach.</li>
+                    </ul>
                     <strong>HOW</strong> can we help?
                     <ul>
                         <li>Provide a platform/community to connect professors with students</li>
                         <li>Professors can earn passive income through their content</li>
                         <li>Students can access free additional learning resources</li>
                     </ul>
-                    After consolidating our problem statement and research, we developed a user flow which I turned into high-fidelity
+                    After consolidating our team's problem statement and research, I developed a user flow which I turned into high-fidelity
                     mockups on Figma, then moved to coding the front-end of the website.
                     </Text>
                     <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
                     <Text>
-                    Our solution was to create a platform to connect students and professors. Our platform aims to 
+                    The solution was to create a platform to connect students and professors. onlyProfs aims to 
                     help professors share the knowledge and content that they create, whether it be lectures, 
                     assignments (with solutions), or their research, and provide easy access for students to learn 
                     from those materials free of charge.<br/><br/>
@@ -311,15 +313,15 @@ const OnlyProfs = () => {
                     educational content.
                     Working and developed examples of how we differ:
                     <ul>
-                        <li>There are many existing platforms that offer similar content relative to what we are offering, 
+                        <li>There are many existing platforms that offer similar content relative to what the platform offers, 
                         e.g. Coursera/Udemy, Youtube, and Superprof.</li>
-                        <li>We differ from Coursera/Udemy in that the lectures instructors upload need not be condensed 
+                        <li>The platform differs from Coursera/Udemy in that the lectures instructors upload need not be condensed 
                         into one instructive course, they’re able to upload individualized videos (and let students view 
-                        such videos) based on the topic/subject that they are teaching, so our platform offers more flexibility.</li>
-                        <li>We differ from Youtube in that our platform is streamlined for education, and drops the pretense of 
-                        Youtube algorithms; this comes in that we will never “recommend” distracting videos to the students 
+                        such videos) based on the topic/subject that they are teaching, so ir offers more flexibility.</li>
+                        <li>The platform differs from Youtube in that it is streamlined for education, and drops the pretense of 
+                        Youtube algorithms; this comes in that it will never “recommend” distracting videos to the students 
                         based on their history, and that all content offered will be free, professional, and educational. </li>
-                        <li>And of course, unlike Superprof, which offers paid tutor services, we provide all of our materials 
+                        <li>And of course, unlike Superprof, which offers paid tutor services, it provides all of its materials 
                         asynchronously and completely for free. This really steps in on many college/university students’ 
                         lack of willingness to pay for non-essential expenses, which in theory would give our site higher 
                         popularity.</li>
@@ -391,9 +393,9 @@ const OnlyProfs = () => {
                     <Center><Image7 src={`https://imgur.com/NkMMLyw.png`} /></Center>
                     <SubHead>TAKEAWAYS & IMPROVEMENTS</SubHead>
                     <Text>
-                    In just 24 hours, our team was able to come up with hi-fidelity designs and a prototype based on user journeys 
-                    and requirements. We were also able to code up a live demo showcasing the application's main functionality using 
-                    React and hosted it on Google Firebase. <br/><br/>
+                    In just 24 hours, I was able to come up with hi-fidelity designs and a prototype based on user journeys and requirements. 
+                    Me and my team were also able to code up a live demo showcasing the application's main functionality using React and 
+                    hosted it on Google Firebase. <br/><br/>
                     Given more time, I would have worked on developing the frontend interface more on the live demo given that the current 
                     site wasn't able to be developed to look exactly like the prototypes I designed. I also would have wanted to design
                     the notifications users would received once a creator they subscribed to posts new content.
