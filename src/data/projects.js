@@ -25,14 +25,6 @@ export const projects = [
         
     },
     {
-      title: "Assembly",
-      desc:
-        "project management software",
-      image: "https://imgur.com/Bq6k4RV.png",
-      color: "#28afc9",
-      id: "assembly"
-  },
-    {
       title: "OnlyProfs",
       desc:
         "educational video app",
@@ -40,4 +32,12 @@ export const projects = [
       color: "#E29E4B",
       id: "onlyprofs"
     },
+    {
+      title: "Notion for PMs",
+      desc:
+        "improved notion - coming soon!",
+      // image: "https://imgur.com/Bq6k4RV.png",
+      color: "#28afc9",
+      id: "notion"
+  },
   ]

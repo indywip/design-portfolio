@@ -1,6 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import UICards from '../components/UICards';
+import GraphicCards from '../components/GraphicCards';
+
 const Designs = () => {
   return (
       <Wrapper>
@@ -8,6 +11,10 @@ const Designs = () => {
             <Work>Other Designs</Work>  
             <Sub>Other UX and graphic designs I've worked on.</Sub>
         </Top>
+        <SubHead>UI Designs</SubHead>
+        <UICards />
+        <SubHead2>Graphic Designs</SubHead2>
+        <GraphicCards />
       </Wrapper>
   );
 }
@@ -17,19 +24,21 @@ export default Designs
 
 const Wrapper = styled.div`
   margin-top: 40px;
+  padding: 0px 130px;
 
   @media (max-width: 450px) {
+    padding: 0px 20px;
     margin-top: 20px;
   }
 `
 
 const Top = styled.div`
-  width: 80%;
   margin: auto;
-  margin-bottom: 70px;
+  margin-bottom: 30px;
 
   @media (max-width: 450px) {
-    margin-bottom: 60px;
+    margin-bottom: 20px;
+    margin-left: 32px;
   }
 `
 
@@ -48,6 +57,37 @@ const Sub = styled.h2`
     margin-top: 20px;
     margin-right: 0px;
   }
+`
+
+const SubHead = styled.h2`
+    font-weight: 600;
+    font-size: 32px;
+    font-family: Outfit;
+    text-wrap: nowrap;
+    color: white;
+    letter-spacing: 2px;
+
+    @media (max-width: 450px) {
+    font-size: 21px;
+    letter-spacing: 1px;
+    margin-left: 32px;
+    }
+`
+
+const SubHead2 = styled.h2`
+    font-weight: 600;
+    font-size: 32px;
+    font-family: Outfit;
+    text-wrap: nowrap;
+    color: white;
+    letter-spacing: 2px;
+
+    @media (max-width: 450px) {
+      font-size: 21px;
+      margin-top: 40px;
+      margin-left: 32px;
+      letter-spacing: 1px;
+    }
 `
 
 const Work = styled.h1`
