@@ -238,7 +238,7 @@ const Alliance = () => {
                         how to better find collaborators for side projects.
                     </Text>
                     <SubHead>THE PROCESS</SubHead>
-                    <Text style={{ marginTop: '-20px' }}>
+                    <Text style={{ marginTop: '-14px' }}>
                         <strong>Objectives</strong>
                         <ul>
                             <li>Discover the tools and platforms tech aspirants use to find collaborators for side projects</li>
