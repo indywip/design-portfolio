@@ -230,7 +230,7 @@ const ReactLab = () => {
                         <Content>
                             <Text style={{ textAlign: 'right' }}>
                                 Finally, the Prospective Students page outlines the requirements necessary to apply for the lab, as well as the items
-                                needed to be submitted in the application. It includes a call to action to send their application to the lab.
+                                needed to be submitted in the application. It includes a call to action to send in their application.
                             </Text>
                         </Content>
                         <Content>
@@ -444,7 +444,7 @@ const ReactLab = () => {
                     <Center><Image4 src={`https://imgur.com/Vq9epOE.png`} /></Center>
                     <Text>
                         Finally, the Prospective Students page outlines the requirements necessary to apply for the lab, as well as the items
-                        needed to be submitted in the application. It includes a call to action to send their application to the lab.
+                        needed to be submitted in the application. It includes a call to action to send in their application.
                     </Text>
                     <Center><Image7 src={`https://imgur.com/QVw6SUJ.png`} /></Center>
                     <SubHead>TAKEAWAYS & IMPROVEMENTS</SubHead>
