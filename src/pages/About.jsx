@@ -12,10 +12,10 @@ const About = () => {
           <IContent>
             <Image src="https://imgur.com/oCUeM18.jpg" />
             <Icons>
-                <Icon src={linkedin} />
-                <Icon src={drib} />
-                <Icon src={git} />
-                <Icon src={email} />
+              <a href="https://www.linkedin.com/in/indirasowy" rel="noopener noreferrer" target="_blank"><Icon src={linkedin} /></a>
+              <a href="https://dribbble.com/indysowy" rel="noopener noreferrer" target="_blank"><Icon src={drib} /></a>
+              <a href="https://github.com/indywip" rel="noopener noreferrer" target="_blank"><Icon src={git} /></a>
+              <a href="mailto:indira.sowy@gmail.com" rel="noopener noreferrer" target="_blank"><Icon src={email} /></a>
             </Icons>
           </IContent>
           <Content>
