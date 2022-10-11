@@ -32,12 +32,12 @@ export const projects = [
       color: "#E29E4B",
       id: "onlyprofs"
     },
-    {
-      title: "Notion for PMs",
-      desc:
-        "improved notion - coming soon!",
-      // image: "https://imgur.com/Bq6k4RV.png",
-      color: "#28afc9",
-      id: "notion"
-  },
+  //   {
+  //     title: "Notion for PMs",
+  //     desc:
+  //       "repurposing notion for the PM market",
+  //     image: "",
+  //     color: "#28afc9",
+  //     id: "notion"
+  // },
   ]
