@@ -12,6 +12,7 @@ import Footer from './components/Footer'
 import Alliance from './pages/Alliance'
 import Entreprenher from './pages/Entreprenher';
 import OnlyProfs from './pages/OnlyProfs';
+import ReactLab from './pages/ReactLab';
 
 function App() {
   return (
@@ -23,9 +24,10 @@ function App() {
                     <Route index element={<Home />} />
                     <Route path='about' element={<About />} />
                     <Route path='designs' element={<Designs />} />
-                    <Route path ='alliance' element={<Alliance />} />
-                    <Route path ='entreprenher' element={<Entreprenher />} />
-                    <Route path ='onlyprofs' element={<OnlyProfs />} />
+                    <Route path='alliance' element={<Alliance />} />
+                    <Route path='entreprenher' element={<Entreprenher />} />
+                    <Route path='onlyprofs' element={<OnlyProfs />} />
+                    <Route path='reactlab' element={<ReactLab />} />
                 </Route>
             </Routes>
       <Footer />

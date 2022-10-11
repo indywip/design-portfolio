@@ -13,7 +13,7 @@ export const projects = [
         "university lab website",
       image: "https://imgur.com/27mMIW3.png",
       color: "#6dbf15",
-      id: "react-lab"
+      id: "reactlab"
     },
     {
       title: "EntreprenHER",
