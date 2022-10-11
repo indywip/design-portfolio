@@ -167,19 +167,7 @@ const ReactLab = () => {
                     From there, I handed off the screens to the front-end developer and oversaw the implementation of the
                     entire website, guiding the developer to ensure the design was implemented properly.
                     </Text>
-                    <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
-                    <Text>
-                    <strong>User Requirements</strong><br/>
-                    As a female entrepreneur, you can:
-                    <ul>
-                        <li>Register your business on the website</li>
-                        <li>Sell your products to earn profit</li>
-                        <li>Post on the community tab as their business promoting their new products that 
-                            users can view and interact with</li>
-                    </ul>
-                    </Text>
                     <SubHead>FEATURES</SubHead>
-
                     <Group gap={"85px"}>
                         <Content>
                             <Text style={{ textAlign: 'right' }}>
@@ -407,17 +395,6 @@ const ReactLab = () => {
                     After creating high-fidelity mockups, I presented the design to the client and received approval.
                     From there, I handed off the screens to the front-end developer and oversaw the implementation of the
                     entire website, guiding the developer to ensure the design was implemented properly.
-                    </Text>
-                    <SubHead style={{ marginTop: '28px' }}>THE SOLUTION</SubHead>
-                    <Text>
-                    <strong>User Requirements</strong><br/>
-                    As a female entrepreneur, you can:
-                    <ul>
-                        <li>Register your business on the website</li>
-                        <li>Sell your products to earn profit</li>
-                        <li>Post on the community tab as their business promoting their new products that 
-                            users can view and interact with</li>
-                    </ul>
                     </Text>
                     <SubHead>FEATURES</SubHead>
                     <Text>

@@ -41,7 +41,7 @@ const Wrapper = styled.div`
   margin-top: 65px;
   align-items: top;
 
-  @media (max-width: 450px) {
+  @media (max-width: 768px) {
     margin-top: 38px;
     gap: 30px;
     flex-direction: column;
@@ -51,6 +51,10 @@ const Wrapper = styled.div`
 const Image = styled.img`
   border-radius: 50%;
   width: 410px;
+
+  @media (max-width: 1010px) {
+    width: 350px;
+  }
 
   @media (max-width: 450px) {
     width: 220px;
@@ -62,7 +66,7 @@ const Center = styled.div`
     display: flex;
     flex-direction: column;
 
-    @media (max-width: 450px) {
+    @media (max-width: 768px) {
       align-items: center;
       justify-content: center;
     }
@@ -72,7 +76,16 @@ const Content = styled.div`
   flex: 50%;
   margin-left: -150px;
 
-  @media (max-width: 450px) {
+  @media (max-width: 1250px) {
+    margin-left: -40px;
+  }
+
+  @media (max-width: 1010px) {
+    flex: 60%;
+    margin-left: 0px;
+  }
+
+  @media (max-width: 768px) {
     margin-left: 0px;
   }
 `
@@ -81,7 +94,17 @@ const IContent = styled.div`
   flex: 50%;
   margin-left: 220px;
 
-  @media (max-width: 450px) {
+  @media (max-width: 1100px) {
+    margin-left: 100px;
+  }
+
+
+  @media (max-width: 1010px) {
+    flex: 40%;
+  }
+
+
+  @media (max-width: 768px) {
     margin-left: 0px;
     align-self: center;
   }
@@ -95,7 +118,7 @@ const Header = styled.h1`
   color: white;
   letter-spacing: 2px;
 
-  @media (max-width: 450px) {
+  @media (max-width: 768px) {
     font-size: 24px;
     width: 80%;
     letter-spacing: 1px;
@@ -111,7 +134,7 @@ const Sub = styled.h2`
   width: 70%;
   line-height: 1.5;
 
-  @media (max-width: 450px) {
+  @media (max-width: 768px) {
     font-size: 16px;
     width: 80%;
     margin-right: 0px;
@@ -123,7 +146,7 @@ const Icons = styled.div`
   display: flex;
   gap: 22px;
   margin-top: 28px;
-  margin-left: 10%;
+  margin-left: 12%;
 
   @media (max-width: 450px) {
     margin-top: 18px;
