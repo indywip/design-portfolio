@@ -155,7 +155,6 @@ const Icons = styled.div`
 `
 
 const Icon = styled.img`
-  filter: invert(1);
   width: 45px;
 
   @media (max-width: 450px) {

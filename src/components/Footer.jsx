@@ -92,6 +92,10 @@ const Text = styled.h1`
     }
 
     @media (max-width: 450px) {
+      position: static;
+    }
+
+    @media (max-width: 450px) {
         font-size: 16px;
     }
 `
@@ -111,6 +115,5 @@ const Icons = styled.div`
 `
 
 const Icon = styled.img`
-  filter: invert(1);
   width: 30px;
 `

@@ -1,18 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom'
-import useWindowDimensions from "../hooks/GetWindowDimension";
 
-import Hamburger from './Hamburger';
-
-const Navbar = () => {
-
-    const width = useWindowDimensions().width;
-
-    if (width > 768) {
+const MobileNav = ({ open }) => {
         return (
-            <Wrapper>
-                <Link to ="/"><Icon src={`https://imgur.com/lumigPG.png`} /></Link>
+            <Wrapper open={open}>
                 <Buttons>
                     <Link to="/" style={{ textDecoration: "none" }}>
                         <Text>Work</Text>
@@ -29,25 +21,38 @@ const Navbar = () => {
                 </Buttons>
             </Wrapper>
         )
-    } else {
-        return (
-            <Hamburger />
-        )
-    }
 }
 
-export default Navbar
+export default MobileNav
 
 const Wrapper = styled.div`
+    list-style: none;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    flex-flow: row nowrap;
+
+    @media (max-width: 768px) {
+        flex-flow: column nowrap;
+        align-items: center;
+        transform: ${({ open }) => open ? 'translateX(0)' : 'translateX(100%)'};
+        position: fixed;
+        transition: transform 0.3s ease-in-out;
+        top: 0;
+        right: 0;
+        height: 100vh;
+        width: 150px;
+        padding-left: 40px;
+        padding-top: 3.5rem;
+        background-color: #151516;
+        border-left: 1px solid gray;
+        align-items: center;
+    }
 `
 
 const Buttons = styled.div`
     display: flex;
+    flex-direction: column;
     justify-content: flex-end;
-    gap: 60px;
+    gap: 20px;
     margin-top: 24px;
     padding-right: 50px;
 `
@@ -59,6 +64,7 @@ const Text = styled.h1`
     font-family: Outfit;
     display: inline-block;
     position: relative;
+    text-align: center;
 
     &:after {
         content: '';
@@ -87,7 +93,7 @@ const Button = styled.button`
     background-color: transparent;
     border: 1px solid #FD987E;
     border-radius: 10px;
-    padding: 0px 22px;
+    padding: 8px 22px;
     transition-duration: 0.4s;
     cursor: pointer;
 
@@ -95,14 +101,4 @@ const Button = styled.button`
         background: linear-gradient(90deg, rgba(253,152,126,1) 0%, rgba(242,135,219,1) 100%);
         color: white;
   }
-`
-
-const Icon = styled.img`
-    width: 80px;
-    margin-left: 35px;
-    margin-top: 24px;
-
-    @media (max-width: 450px) {
-        width: 60px;
-    }
 `
