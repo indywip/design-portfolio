@@ -11,6 +11,7 @@ import Footer from './components/Footer'
 
 import Alliance from './pages/Alliance'
 import Entreprenher from './pages/Entreprenher';
+import OnlyProfs from './pages/OnlyProfs';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
                     <Route path='designs' element={<Designs />} />
                     <Route path ='alliance' element={<Alliance />} />
                     <Route path ='entreprenher' element={<Entreprenher />} />
+                    <Route path ='onlyprofs' element={<OnlyProfs />} />
                 </Route>
             </Routes>
       <Footer />

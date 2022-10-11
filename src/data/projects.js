@@ -8,6 +8,14 @@ export const projects = [
       id: "alliance"
     },
     {
+      title: "REACT Lab",
+      desc:
+        "university lab website",
+      image: "https://imgur.com/27mMIW3.png",
+      color: "#6dbf15",
+      id: "react-lab"
+    },
+    {
       title: "EntreprenHER",
       desc:
         "e-commerce site for women",
@@ -24,14 +32,6 @@ export const projects = [
       color: "#28afc9",
       id: "assembly"
   },
-    {
-      title: "REACT Lab",
-      desc:
-        "university lab website",
-      image: "https://imgur.com/27mMIW3.png",
-      color: "#6dbf15",
-      id: "react-lab"
-    },
     {
       title: "OnlyProfs",
       desc:
