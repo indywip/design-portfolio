@@ -17,9 +17,9 @@ const BurgerMenu = () => {
         <div />
         <div />
       </StyledBurger>
-      <div ref={node}>
+      {/* <div ref={node}> */}
         <MobileNav open={open}/>
-      </div>
+      {/* </div> */}
     </>
   );
 };

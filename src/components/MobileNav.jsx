@@ -42,7 +42,7 @@ const Wrapper = styled.div`
         width: 150px;
         padding-left: 40px;
         padding-top: 3.5rem;
-        background-color: #151516;
+        background-color: #121214;
         border-left: 1px solid gray;
         align-items: center;
     }
@@ -59,7 +59,7 @@ const Buttons = styled.div`
 
 const Text = styled.h1`
     font-size: 22px;
-    color: white;
+    color: #fff;
     font-weight: 500;
     font-family: Outfit;
     display: inline-block;
