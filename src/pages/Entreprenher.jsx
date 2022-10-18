@@ -68,7 +68,7 @@ const Entreprenher = () => {
                     To remedy the problem, our team created entreprenHER, a web application that aims to showcase the 16% 
                     and allow them to promote their talents and creativity through the platform.<br/><br/>
                     Female-identifying individuals can host their online stores on the platform which consumers can 
-                    purchase from. Through this, users can directly support women entrepreneurs by buying their products.
+                    purchase from. Through this, users can directly support women entrepreneurs by buying their products.<br/><br/>
                     <strong>User Requirements</strong><br/>
                     As a female entrepreneur, you can:
                     <ul>
