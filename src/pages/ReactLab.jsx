@@ -26,7 +26,7 @@ const ReactLab = () => {
                         window.open("https://reactlab.civil.ubc.ca/", '_blank')
                         }}>Live Site</Button>
                     </Buttons>
-                    <Image1 src={`https://imgur.com/P6xXm0q.png`} />
+                    <Image1 src={`https://imgur.com/P6xXm0q.png`} alt="mockup of the homepage design"/>
                 </Center>
                 <OverviewT>OVERVIEW</OverviewT>
                 <Overview>

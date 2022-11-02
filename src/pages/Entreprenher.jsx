@@ -24,7 +24,7 @@ const Entreprenher = () => {
                         window.open("https://www.figma.com/proto/xpC6wwYWiBmmVcUrj1UEwY/entreprenHER?page-id=0%3A1&node-id=3%3A51&viewport=75%2C396%2C0.07&scaling=min-zoom&starting-point-node-id=3%3A51", '_blank')
                     }}>Prototype</Button>
                     </Buttons>
-                    <Image1 src={`https://imgur.com/OhKdsIh.png`} />
+                    <Image1 src={`https://imgur.com/OhKdsIh.png`} alt="mockup of the homepage design" />
                 </Center>
                 <OverviewT>OVERVIEW</OverviewT>
                 <Overview>

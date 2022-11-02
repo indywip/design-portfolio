@@ -24,7 +24,7 @@ const OnlyProfs = () => {
                         window.open("https://www.figma.com/proto/MXWxac4Q43397uaSghZyHb/onlyProfs?page-id=0%3A1&node-id=2%3A5&viewport=204%2C119%2C0.09&scaling=min-zoom&starting-point-node-id=102%3A1311&show-proto-sidebar=1", '_blank')
                     }}>Prototype</Button>
                     </Buttons>
-                    <Image1 src={`https://imgur.com/H3z8OHK.png`} />
+                    <Image1 src={`https://imgur.com/H3z8OHK.png`} alt="mockup of the homepage design"/>
                 </Center>
                 <OverviewT>OVERVIEW</OverviewT>
                 <Overview>

@@ -22,7 +22,7 @@ const Alliance = () => {
                         window.open("https://www.figma.com/proto/Sp7VnMref02iDJf80vWUzl/swarmageddon?node-id=228%3A1209&scaling=min-zoom&page-id=228%3A799&starting-point-node-id=228%3A1209", '_blank')
                     }}>Prototype</Button>
                     </Buttons>
-                    <Image1 src={`https://imgur.com/Ms91qYS.png`} />
+                    <Image1 src={`https://imgur.com/Ms91qYS.png`} alt="mockup of the homepage design"/>
                 </Center>
                 <OverviewT>OVERVIEW</OverviewT>
                 <Overview>
