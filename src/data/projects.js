@@ -8,6 +8,14 @@ export const projects = [
       id: "alliance"
     },
     {
+      title: "Notion for PMs",
+      desc:
+        "coming soon!",
+      image: "https://i.imgur.com/xx9pvzO.png",
+      color: "#28afc9",
+      id: "notion"
+    },
+    {
       title: "REACT Lab",
       desc:
         "university lab website",
@@ -32,12 +40,4 @@ export const projects = [
       color: "#E29E4B",
       id: "onlyprofs"
     },
-  //   {
-  //     title: "Notion for PMs",
-  //     desc:
-  //       "repurposing notion for the PM market",
-  //     image: "",
-  //     color: "#28afc9",
-  //     id: "notion"
-  // },
   ]
