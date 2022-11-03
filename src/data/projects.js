@@ -10,7 +10,7 @@ export const projects = [
     {
       title: "Notion for PMs",
       desc:
-        "coming soon!",
+        "repurposing notion for the pm market",
       image: "https://i.imgur.com/xx9pvzO.png",
       color: "#28afc9",
       id: "notion"

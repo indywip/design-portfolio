@@ -12,9 +12,10 @@ import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 
 import Alliance from './pages/Alliance'
-import Entreprenher from './pages/Entreprenher';
-import OnlyProfs from './pages/OnlyProfs';
-import ReactLab from './pages/ReactLab';
+import Entreprenher from './pages/Entreprenher'
+import OnlyProfs from './pages/OnlyProfs'
+import ReactLab from './pages/ReactLab'
+import Notion from './pages/Notion'
 
 function App() {
 
@@ -31,6 +32,7 @@ function App() {
                       <Route path='about' element={<About />} />
                       <Route path='designs' element={<Designs />} />
                       <Route path='alliance' element={<Alliance />} />
+                      <Route path='notion' element={<Notion />} />
                       <Route path='entreprenher' element={<Entreprenher />} />
                       <Route path='onlyprofs' element={<OnlyProfs />} />
                       <Route path='reactlab' element={<ReactLab />} />
@@ -53,6 +55,7 @@ function App() {
                       <Route path='about' element={<About />} />
                       <Route path='designs' element={<Designs />} />
                       <Route path='alliance' element={<Alliance />} />
+                      <Route path='notion' element={<Notion />} />
                       <Route path='entreprenher' element={<Entreprenher />} />
                       <Route path='onlyprofs' element={<OnlyProfs />} />
                       <Route path='reactlab' element={<ReactLab />} />
