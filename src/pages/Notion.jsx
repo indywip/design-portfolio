@@ -639,7 +639,7 @@ const Alliance = () => {
                         a better sense of their preferences and pain points to better tailor Notion for PM’s product offerings.<br/><br/>
                         <strong>Learnings</strong><br/>
                         Attempting to disrupt an existing market is challenging, and a company that is successful in one market may not necessarily be in another. 
-                        Therefore, it is important to evaluate the current market landscape using the PESTLE analysis framework to access whether or not the product 
+                        Therefore, it is important to evaluate the current market landscape using the PESTEL analysis framework to access whether or not the product 
                         will be profitable, or if the timing of the release is appropriate. Many external variables can also affect the success of a new product 
                         launch, which is why PMs and stakeholders need to make informed decisions and business manage risk.
                     </Text>
@@ -1260,8 +1260,8 @@ const Alliance = () => {
                         a better sense of their preferences and pain points to better tailor Notion for PM’s product offerings.<br/><br/>
                         <strong>Learnings</strong><br/>
                         Attempting to disrupt an existing market is challenging, and a company that is successful in one market may not necessarily be in another. 
-                        Therefore, it is important to evaluate the current market landscape using the PESTLE analysis framework to access whether or not the product 
-                        will be profitable, or if the timing of the release is appropriate. Many external variables can also affect the success of a new product 
+                        Therefore, it is important to evaluate the current market landscape using the PESTEL analysis framework to access whether or not the product 
+                        will be profitable, or if the timing of the release is appropriate. <br/><br/>Many external variables can also affect the success of a new product 
                         launch, which is why PMs and stakeholders need to make informed decisions and business manage risk.
                     </Text>
                 </Body>
