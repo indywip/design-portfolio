@@ -609,7 +609,39 @@ const Alliance = () => {
                     </Group>
                     <SubHead>TAKEAWAYS & IMPROVEMENTS</SubHead>
                     <Text>
-                        Coming soon!
+                        <strong>Risks</strong><br/>
+                        Possible risks of the solution and how I might mitigate them:
+                        <ol>
+                            <li>Customer Loyalty to Competitors <br/>
+                            Professionals who are already accustomed to a certain software may not want to suddenly switch to Notion for PM for their work. 
+                            Adopting a new work process and platform will require training and time, and not everyone will be willing to invest the time 
+                            and resources into it. Therefore, implementing new software will need to be done gradually which will lead to more time 
+                            required for the product to demonstrate profitability. </li>
+                            <li>Data Transfer <br/>
+                            Data from previous work/projects will need to be transferred to Notion for PM. If Notion for PM does not integrate other software 
+                            into their own, a seamless data transfer process will need to be created for teams to not lose any previous work. </li>
+                            <li>Excessive Number of Features <br/>
+                            Existing users have expressed that one of the downsides of Notion is that sometimes users are overwhelmed with the number of 
+                            features the platform offers. Therefore, it is important for the team developing Notion for PM to perform the required feature 
+                            prioritization steps to mitigate this risk.</li>
+                            <li>Copyright <br/>
+                            Certain frameworks or tools used in PM/PMM/UX design may be independently developed by other companies. To avoid copyright claims, 
+                            Notion must be cautious in the tools they include in Notion for PM and purchase user rights if they choose to outsource.</li>
+                        </ol>
+                        <strong>Next Steps</strong><br/>
+                        There may be some copyright issues when creating Notion’s version of PM software, especially if frameworks are independently developed by 
+                        competitors. Notion will need to possibly purchase rights to use its tools on its own platform, which will lengthen the time needed to 
+                        release the product and incur additional costs. An alternate solution for this risk would be to acquire smaller companies that develop 
+                        PM tools and frameworks. Therefore, it is important to perform the necessary due diligence before entering a new market and introducing a 
+                        plan for a new product. <br/><br/>
+                        It is also important to conduct user-testing consultations with a pilot of this new product with PMs/PMMs/ UX 
+                        Designers before releasing it to the public. If we had more time, we would conduct interviews with professionals in the industry to get 
+                        a better sense of their preferences and pain points to better tailor Notion for PM’s product offerings.<br/><br/>
+                        <strong>Learnings</strong><br/>
+                        Attempting to disrupt an existing market is challenging, and a company that is successful in one market may not necessarily be in another. 
+                        Therefore, it is important to evaluate the current market landscape using the PESTLE analysis framework to access whether or not the product 
+                        will be profitable, or if the timing of the release is appropriate. Many external variables can also affect the success of a new product 
+                        launch, which is why PMs and stakeholders need to make informed decisions and business manage risk.
                     </Text>
                 </Body>
             </Wrapper>
@@ -1198,7 +1230,39 @@ const Alliance = () => {
                         <Image7 src={`https://i.imgur.com/WKmGc1c.png`} />
                     <SubHead>TAKEAWAYS & IMPROVEMENTS</SubHead>
                     <Text>
-                        Coming soon!
+                    <strong>Risks</strong><br/>
+                        Possible risks of the solution and how I might mitigate them:
+                        <ol>
+                            <li>Customer Loyalty to Competitors <br/>
+                            Professionals who are already accustomed to a certain software may not want to suddenly switch to Notion for PM for their work. 
+                            Adopting a new work process and platform will require training and time, and not everyone will be willing to invest the time 
+                            and resources into it. Therefore, implementing new software will need to be done gradually which will lead to more time 
+                            required for the product to demonstrate profitability. </li>
+                            <li>Data Transfer <br/>
+                            Data from previous work/projects will need to be transferred to Notion for PM. If Notion for PM does not integrate other software 
+                            into their own, a seamless data transfer process will need to be created for teams to not lose any previous work. </li>
+                            <li>Excessive Number of Features <br/>
+                            Existing users have expressed that one of the downsides of Notion is that sometimes users are overwhelmed with the number of 
+                            features the platform offers. Therefore, it is important for the team developing Notion for PM to perform the required feature 
+                            prioritization steps to mitigate this risk.</li>
+                            <li>Copyright <br/>
+                            Certain frameworks or tools used in PM/PMM/UX design may be independently developed by other companies. To avoid copyright claims, 
+                            Notion must be cautious in the tools they include in Notion for PM and purchase user rights if they choose to outsource.</li>
+                        </ol>
+                        <strong>Next Steps</strong><br/>
+                        There may be some copyright issues when creating Notion’s version of PM software, especially if frameworks are independently developed by 
+                        competitors. Notion will need to possibly purchase rights to use its tools on its own platform, which will lengthen the time needed to 
+                        release the product and incur additional costs. An alternate solution for this risk would be to acquire smaller companies that develop 
+                        PM tools and frameworks. Therefore, it is important to perform the necessary due diligence before entering a new market and introducing a 
+                        plan for a new product. <br/><br/>
+                        It is also important to conduct user-testing consultations with a pilot of this new product with PMs/PMMs/ UX 
+                        Designers before releasing it to the public. If we had more time, we would conduct interviews with professionals in the industry to get 
+                        a better sense of their preferences and pain points to better tailor Notion for PM’s product offerings.<br/><br/>
+                        <strong>Learnings</strong><br/>
+                        Attempting to disrupt an existing market is challenging, and a company that is successful in one market may not necessarily be in another. 
+                        Therefore, it is important to evaluate the current market landscape using the PESTLE analysis framework to access whether or not the product 
+                        will be profitable, or if the timing of the release is appropriate. Many external variables can also affect the success of a new product 
+                        launch, which is why PMs and stakeholders need to make informed decisions and business manage risk.
                     </Text>
                 </Body>
             </Wrapper>
