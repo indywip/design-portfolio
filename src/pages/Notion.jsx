@@ -808,7 +808,7 @@ const Alliance = () => {
                                 <Cell>Work and project management team collaboration platform. Includes list features which can be converted into timeline work maps and boards</Cell>
                             </tr>
                         </Comp><br/><br/>
-                        <Center><strong style={{ fontSize: '22px'}}>Milanote</strong></Center>
+                        {/* <Center><strong style={{ fontSize: '22px'}}>Milanote</strong></Center>
                         <Comp>
                             <tr>
                                 <HeadCell>Product Feature</HeadCell>
@@ -1005,7 +1005,7 @@ const Alliance = () => {
                                 <Cell>Strength</Cell>
                                 <Cell>More user-friendly interface and less cluttered with information, making it less overwhelming</Cell>
                             </tr>
-                        </Comp><br/>
+                        </Comp><br/> */}
                         <strong>Charting the Features</strong><br/><br/>
                         <Center><Image5 src={`https://i.imgur.com/9QhK5Zp.png`} /></Center><br/>
                         <strong style={{ fontSize: '22px'}}>5) PESTEL Analysis:</strong><br/><br/>
@@ -1306,6 +1306,7 @@ const Comp = styled.table`
     font-family: Outfit;
     border-collapse: collapse;
     width: 100%;
+
 `
 
 const Cell = styled.td`
