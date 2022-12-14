@@ -16,12 +16,12 @@ export const projects = [
       id: "notion"
     },
     {
-      title: "REACT Lab",
+      title: "Productibility",
       desc:
-        "university lab website",
-      image: "https://imgur.com/27mMIW3.png",
-      color: "#6dbf15",
-      id: "reactlab"
+        "coming soon!",
+      image: "https://i.imgur.com/UOQau28.png",
+      color: "#71c7a7",
+      id: "productibility"
     },
     {
       title: "EntreprenHER",
@@ -39,5 +39,13 @@ export const projects = [
       image: "https://imgur.com/mWtX5hr.png",
       color: "#E29E4B",
       id: "onlyprofs"
+    },
+    {
+      title: "REACT Lab",
+      desc:
+        "university lab website",
+      image: "https://imgur.com/27mMIW3.png",
+      color: "#6dbf15",
+      id: "reactlab"
     },
   ]
