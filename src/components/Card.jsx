@@ -66,13 +66,11 @@ const Desc = styled.p`
   text-transform: uppercase;
   letter-spacing: 2.5px;
   font-family: Outfit;
-  margin-top: -16px;
   color: white;
   text-align: center;
 
   @media (max-width: 450px) {
     font-size: 10px;
-    margin-top: -12px;
     margin-bottom: 18px;
   }
 `
