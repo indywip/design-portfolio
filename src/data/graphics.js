@@ -12,6 +12,18 @@ export const graphics = [
       image: "https://imgur.com/nnMHllw.png"
     },
     {
+      title: "AKPsi",
+      desc:
+        "instagram graphics for a business fraternity",
+      image: "https://imgur.com/GwHi4wJ.jpg"
+    },
+    {
+      title: "Company Crawl",
+      desc:
+        "instagram graphics for a networking event",
+      image: "https://imgur.com/v9wHnF0.jpg"
+    },
+    {
       title: "SAMAHUMSS",
       desc:
         "poster for online event",
