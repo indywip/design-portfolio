@@ -31,7 +31,7 @@ const Footer = () => {
           <a href="https://github.com/indywip" rel="noopener noreferrer" target="_blank"><Icon src={git} /></a>
           <a href="mailto:indira.sowy@gmail.com" rel="noopener noreferrer" target="_blank"><Icon src={email} /></a>
         </Icons>
-        <SmallText>Copyright © Indy Sowy 2022</SmallText>
+        <SmallText>Copyright © Indira Sowy 2022</SmallText>
     </Wrapper>
   );
 }

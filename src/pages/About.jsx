@@ -20,7 +20,7 @@ const About = () => {
           </IContent>
           <Content>
             <Center>
-            <Header>Meet Indy Sowy</Header>
+            <Header>Meet Indira Sowy</Header>
             <Sub>I am a product designer, developer, and manager based in Vancouver, currently a 
               second year studying under the Faculty of Arts at the University of British Columbia. 
               As someone who’s been doing design since high school, creation is a passion close to my heart. 
