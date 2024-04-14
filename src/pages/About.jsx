@@ -22,7 +22,7 @@ const About = () => {
             <Center>
             <Header>Meet Indira Sowy</Header>
             <Sub>I am a product designer and developer based in Vancouver, currently a 
-              second year studying under the Faculty of Arts at the University of British Columbia. 
+              third year studying Cognitive Systems at the University of British Columbia. 
               As someone who’s been doing design since high school, creation is a passion close to my heart. 
               I hope to use my skills to help develop the future of the tech industry.
               <br /><br />
