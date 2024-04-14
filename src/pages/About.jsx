@@ -10,7 +10,7 @@ const About = () => {
   return (
       <Wrapper>
           <IContent>
-            <Image src="https://imgur.com/oCUeM18.jpg" />
+            <Image src="https://imgur.com/5THAHWD.jpg" />
             <Icons>
               <a href="https://www.linkedin.com/in/indirasowy" rel="noopener noreferrer" target="_blank"><Icon src={linkedin} /></a>
               <a href="https://dribbble.com/indysowy" rel="noopener noreferrer" target="_blank"><Icon src={drib} /></a>
